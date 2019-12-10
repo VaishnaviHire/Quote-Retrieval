@@ -1,0 +1,21 @@
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+422,Elon musk news,https://en.wikipedia.org/wiki/Elon_Musk ,-38.713633668070614,2.0,0,2.0,0.5
+420,Elon musk news,https://www.npr.org/tags/154533231/elon-musk,-46.690492498744874,4.0,1,6.0,0.75
+430,Elon musk news,https://www.businesstimes.com.sg/keywords/elon-musk,-47.36465722839253,3.0,2,7.892789260714372,0.7499999999999999
+425,Elon musk news,https://news.sky.com/topic/elon-musk-6730,-49.33622393544783,3.0,3,9.392789260714373,0.75
+432,Elon musk news,https://www.foxnews.com/category/person/elon-musk,-49.834296406049745,2.0,4,10.254142376861159,0.7197695000240991
+431,Elon musk news,https://www.foxbusiness.com/category/elon-musk,-49.880335536847284,2.0,5,11.027847991330242,0.6982374427153778
+419,Elon musk news,https://spacenews.com/tag/elon-musk/ ,-50.20723832245234,3.0,6,12.096469552654309,0.7025207468363563
+417,Elon musk news,https://twitter.com/elonmusk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor ,-50.56011098044134,4.0,7,13.429802885987643,0.737145269475245
+428,Elon musk news,https://www.thesun.co.uk/who/elon-musk/ ,-51.04656801319037,3.0,8,14.37619751634483,0.7501253648896983
+424,Elon musk news,https://globalnews.ca/tag/elon-musk/ ,-51.43368398263034,4.0,9,15.580317499000754,0.776370398976073
+426,Elon musk news,https://www.dailynews.com/tag/elon-musk/ ,-52.39649473013938,3.0,10,16.447511977954417,0.785633698034926
+423,Elon musk news,https://www.mercurynews.com/tag/elon-musk/ ,-52.47060270229311,3.0,11,17.284340814907807,0.793873018100046
+415,Elon musk news,https://www.theguardian.com/commentisfree/2019/nov/26/what-the-chaotic-launch-of-teslas-cybertruck-tells-us-about-elon-musk,-53.0976100803485,4.0,12,18.365293432617086,0.813239375816386
+414,Elon musk news,https://www.marketwatch.com/story/elon-musk-doesnt-back-down-after-ford-challenges-tesla-to-apples-to-apples-tug-of-war-rematch-2019-11-26 ,-53.64925769863476,3.0,13,19.153242037728667,0.8195360171472621
+429,Elon musk news,https://www.cbsnews.com/video/elon-musk-shows-off-massive-starship-spacecraft-prototype/,-55.2178736165486,0.0,14,19.153242037728667,0.8019696313478186
+413,Elon musk news,https://www.cnn.com/2019/11/25/cars/elon-musk-tesla-cybertruck-window-glass-broke/index.html,-56.13416434842276,4.0,15,20.153242037728667,0.8265367998759954
+416,Elon musk news,https://www.cnbc.com/2019/11/25/elon-musk-tweets-on-cybertruck-orders-say-little-about-actual-sales.html ,-57.009633085776656,2.0,16,20.64254312196512,0.8299492938373567
+421,Elon musk news,https://www.entrepreneur.com/topic/elon-musk ,-58.619070998210745,4.0,17,21.601792988237644,0.8520853230671566
+427,Elon musk news,https://www.mirror.co.uk/all-about/elon-musk ,-58.619070998210745,2.0,18,22.072610814970922,0.8547822299197578
+418,Elon musk news,https://www.independent.co.uk/topic/elon-musk ,-58.619070998210745,4.0,19,22.99812366760996,0.890623569516142

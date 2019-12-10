@@ -1,0 +1,19 @@
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+0,Abraham Lincoln Gettysburg,http://www.abrahamlincolnonline.org/lincoln/speeches/gettysburg.htm,-36.30594295275549,1.0,0,1.0,0.25
+12,Abraham Lincoln Gettysburg,https://quod.lib.umich.edu/j/jala/2629860.0016.108/--lincoln-and-the-gettysburg-awakening?rgn=main;view=fulltext;q1=gettysburg,-40.825032049227445,0.0,1,1.0,0.125
+8,Abraham Lincoln Gettysburg,https://www.nationalaffairs.com/publications/detail/lincoln-at-gettysburg,-42.90852262156493,4.0,2,3.52371901428583,0.334835908247115
+11,Abraham Lincoln Gettysburg,https://www.theatlantic.com/magazine/archive/2012/02/the-words-that-remade-america/308801/,-44.93157564646911,4.0,3,5.52371901428583,0.4410605993303517
+1,Abraham Lincoln Gettysburg,https://www.history.com/topics/american-civil-war/gettysburg-address,-46.65813192188642,4.0,4,7.246425246579403,0.5086486694842473
+16,Abraham Lincoln Gettysburg,https://www.wuwm.com/post/seven-facts-you-didnt-know-about-gettysburg-address,-48.410601876144796,0.0,5,7.246425246579403,0.45881349080777634
+13,Abraham Lincoln Gettysburg,https://www.thedailybeast.com/how-abraham-lincoln-wrote-the-gettysburg-address,-51.230743138633656,0.0,6,7.246425246579403,0.4208470954241133
+17,Abraham Lincoln Gettysburg,http://gettysburg.stonesentinels.com/other-monuments/lincolns-gettysburg-address-memorial/,-51.63435467809251,3.0,7,8.246425246579403,0.44450333591375196
+5,Abraham Lincoln Gettysburg,https://www.americanrhetoric.com/speeches/gettysburgaddress.htm,-51.8856691063734,4.0,8,9.508284753722318,0.4876445285629751
+14,Abraham Lincoln Gettysburg,https://dp.la/primary-source-sets/battle-of-gettysburg/sources/1483,-52.22214134299462,4.0,9,10.712404736378243,0.5250797035040277
+6,Abraham Lincoln Gettysburg,https://usa.usembassy.de/etexts/democrac/25.htm,-53.13843207486876,3.0,10,11.579599215331907,0.5444437780258355
+10,Abraham Lincoln Gettysburg,https://www.wbaltv.com/article/this-day-in-history-abraham-lincoln-delivers-gettysburg-address/29837521,-53.138432074868774,0.0,11,11.579599215331907,0.5373957259922233
+7,Abraham Lincoln Gettysburg,https://boingboing.net/2019/07/04/abraham-lincolns-gettysburg.html,-54.46018791485109,4.0,12,12.660551833041186,0.5875614792238149
+9,Abraham Lincoln Gettysburg,https://www.nps.gov/gett/planyourvisit/dedication-day.htm,-55.15333509541102,0.0,13,12.660551833041186,0.5875614792238149
+2,Abraham Lincoln Gettysburg,https://rmc.library.cornell.edu/gettysburg/good_cause/transcript.htm,-56.53962945653092,4.0,14,13.684383932280449,0.6350763356565257
+15,Abraham Lincoln Gettysburg,https://newsela.com/read/speeches-lincoln-gettysburg/id/15141/,-57.232776637090865,0.0,15,13.684383932280449,0.6350763356565257
+4,Abraham Lincoln Gettysburg,https://www.independent.co.uk/news/world/americas/abraham-lincoln-birthday-gettysburg-address-civil-war-us-president-trump-a8206946.html,-58.619070998210745,4.0,16,14.662986100753352,0.6804921236302363
+3,Abraham Lincoln Gettysburg,https://www.historynet.com/gettysburg-address-text,-58.619070998210745,3.0,17,15.382423500457747,0.7138803762398944

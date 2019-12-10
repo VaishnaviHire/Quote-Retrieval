@@ -1,0 +1,20 @@
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+133,President Obama Inauguration,https://en.wikipedia.org/wiki/Second_inauguration_of_Barack_Obama,-38.13777636571655,2.0,0,2.0,0.5
+125,President Obama Inauguration,https://www.aol.com/article/news/2017/01/19/president-barack-obamas-first-inauguration-speech-full-text/21657532/,-39.88404093472495,4.0,1,6.0,0.75
+126,President Obama Inauguration,https://www.npr.org/series/99286923/presidential-inauguration-of-barack-obama,-48.311919959513105,0.0,2,6.0,0.5701406500739014
+124,President Obama Inauguration,https://www.history.com/this-day-in-history/barack-obama-is-inaugurated,-49.72618485702003,2.0,3,7.0,0.5589394006696482
+135,President Obama Inauguration,https://www.usatoday.com/story/news/politics/2017/01/20/separate-visions-comparing-trump-obamas-inauguration-day-speeches/96839312/,-50.57348271740723,3.0,4,8.29202967422018,0.6001867767845778
+134,President Obama Inauguration,https://apnews.com/389f03e40e874bbe9d1687925e517d05,-50.604735260911326,0.0,5,8.29202967422018,0.5683577673312471
+132,President Obama Inauguration,https://www.americamagazine.org/politics-society/2017/01/18/barack-obamas-first-inauguration-revisited,-50.87666897639498,4.0,6,9.716858422652269,0.6350112282126792
+129,President Obama Inauguration,https://www.reuters.com/article/us-usa-inauguration-events/factbox-timeline-for-obama-inauguration-events-idUSBRE90K06520130121,-51.877370303558706,0.0,7,9.716858422652269,0.6214731614028135
+123,President Obama Inauguration,https://obamawhitehouse.archives.gov/the-press-office/2013/01/21/inaugural-address-president-barack-obama,-53.0095992030258,1.0,8,10.032323299437998,0.6416497396506277
+131,President Obama Inauguration,https://www.thecut.com/2019/08/barack-obama-aretha-franklin-inauguration-hat.html,-53.043121895064445,0.0,9,10.032323299437998,0.6416497396506277
+130,President Obama Inauguration,https://www.imdb.com/title/tt1356406/,-53.6084357041145,0.0,10,10.032323299437998,0.6416497396506277
+140,President Obama Inauguration,https://www.rollingstone.com/music/music-news/hear-president-obamas-inauguration-playlist-235537/,-53.782789091259275,0.0,11,10.032323299437998,0.6416497396506277
+128,President Obama Inauguration,https://www.nationalreview.com/news/middleman-funneled-donation-from-saudi-to-obama-inauguration-report/,-53.83157925542871,0.0,12,10.032323299437998,0.6416497396506277
+127,President Obama Inauguration,https://abcnews.go.com/Politics/2009-2017-comparing-trumps-obamas-inauguration-crowds/story?id=44927217,-53.93693977108653,0.0,13,10.032323299437998,0.6416497396506277
+141,President Obama Inauguration,https://www.bostonglobe.com/news/politics/2013/01/21/president-obama-remarks-his-second-inauguration/GrPgrXix2RNOnA6zfxuHkK/story.html,-54.119261327880494,4.0,14,11.05615539867726,0.7071322386007592
+136,President Obama Inauguration,http://mallhistory.org/items/show/377,-55.32323413220642,0.0,15,11.05615539867726,0.7071322386007592
+137,President Obama Inauguration,https://www.cnbc.com/2019/01/18/cnbcs-coverage-of-barack-obamas-inauguration---10-years-later.html,-55.32323413220642,4.0,16,12.034757567150164,0.7697219107913826
+138,President Obama Inauguration,https://newrepublic.com/minutes/139999/lot-people-attended-president-obamas-inauguration-2009,-55.91102079710855,0.0,17,12.034757567150164,0.7697219107913826
+139,President Obama Inauguration,https://www.nbcnewyork.com/news/national-international/NATL-The-Inauguration-of-President-Barack-Obama-187732891.html?tag=%22obama+inauguration%22,-58.619070998210745,0.0,18,12.034757567150164,0.7697219107913826

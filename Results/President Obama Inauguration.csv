@@ -1,5 +1,5 @@
 ,Query,URL,score,Ranking,QL_rank,DCG,NDCG
-125,President Obama Inauguration,https://www.aol.com/article/news/2017/01/19/president-barack-obamas-first-inauguration-speech-full-text/21657532/,-4.966888364679502,4.0,0,4.0,1.0
+125,President Obama Inauguration,https://www.aol.com/article/news/2017/01/19/president-barack-obamas-first-inauguration-speech-full-text/21657532/,-4.961190343564864,4.0,0,4.0,1.0
 133,President Obama Inauguration,https://en.wikipedia.org/wiki/Second_inauguration_of_Barack_Obama,-6.415794282670575,2.0,1,6.0,0.75
 126,President Obama Inauguration,https://www.npr.org/series/99286923/presidential-inauguration-of-barack-obama,-9.907829279017317,0.0,2,6.0,0.5701406500739014
 124,President Obama Inauguration,https://www.history.com/this-day-in-history/barack-obama-is-inaugurated,-12.015241357084193,2.0,3,7.0,0.5589394006696482

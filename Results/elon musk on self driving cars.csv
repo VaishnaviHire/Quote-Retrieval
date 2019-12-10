@@ -1,10 +1,10 @@
 ,Query,URL,score,Ranking,QL_rank,DCG,NDCG
-504,elon musk on self driving cars,https://www.theverge.com/2019/4/22/18510828/tesla-elon-musk-autonomy-day-investor-comments-self-driving-cars-predictions,-24.601148338290397,4.0,0,4.0,1.0
-517,elon musk on self driving cars,https://www.chicagotribune.com/business/ct-biz-tesla-autonomous-self-driving-cars-20190423-story.html,-27.893836321081494,2.0,1,6.0,0.75
+504,elon musk on self driving cars,https://www.theverge.com/2019/4/22/18510828/tesla-elon-musk-autonomy-day-investor-comments-self-driving-cars-predictions,-24.635049889966076,4.0,0,4.0,1.0
+517,elon musk on self driving cars,https://www.chicagotribune.com/business/ct-biz-tesla-autonomous-self-driving-cars-20190423-story.html,-27.81379361340796,2.0,1,6.0,0.75
 518,elon musk on self driving cars,https://www.detroitnews.com/story/business/autos/mobility/2019/07/15/tesla-musk-self-driving/39683203/,-28.50545546135171,3.0,2,7.892789260714372,0.7499999999999999
-513,elon musk on self driving cars,https://www.cbsnews.com/news/elon-musk-claims-tesla-will-have-self-driving-robotaxis-on-the-road-next-year/,-29.063217680637813,4.0,3,9.892789260714373,0.7899242429049749
+513,elon musk on self driving cars,https://www.cbsnews.com/news/elon-musk-claims-tesla-will-have-self-driving-robotaxis-on-the-road-next-year/,-29.502584340421656,4.0,3,9.892789260714373,0.7899242429049749
 505,elon musk on self driving cars,https://mashable.com/article/elon-musk-tesla-earnings-full-self-driving/,-29.914969891374398,4.0,4,11.615495493007945,0.815327023584169
-507,elon musk on self driving cars,https://www.cnbc.com/2019/07/08/elon-musk-self-driving-robotaxis-could-make-teslas-more-expensive.html,-30.048501283998917,4.0,5,13.162906721946111,0.8334204765479414
+507,elon musk on self driving cars,https://www.cnbc.com/2019/07/08/elon-musk-self-driving-robotaxis-could-make-teslas-more-expensive.html,-29.994434062728644,4.0,5,13.162906721946111,0.8334204765479414
 503,elon musk on self driving cars,https://www.usatoday.com/story/money/cars/2019/04/22/tesla-says-its-fully-self-driving-car-tech-autonomous/3540926002/,-30.066519789501598,4.0,6,14.5877354703782,0.8651013653232791
 509,elon musk on self driving cars,https://www.cnet.com/roadshow/news/elon-musk-teslas-self-driving-tech/,-30.759666970061545,4.0,7,15.921068803711535,0.8913145531748232
 512,elon musk on self driving cars,https://www.entrepreneur.com/article/294462,-31.029330537010647,3.0,8,16.86746343406872,0.8967832186534305

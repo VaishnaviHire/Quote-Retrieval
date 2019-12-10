@@ -1,0 +1,17 @@
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+412,Elon musk interview,https://www.esquire.com/news-politics/a16681/elon-musk-interview-1212/,-42.52783280142232,3.0,0,3.0,0.75
+400,Elon musk interview,https://www.cbsnews.com/news/tesla-ceo-elon-musk-the-2018-60-minutes-interview/,-43.60136922200299,3.0,1,6.0,0.75
+397,Elon musk interview,https://www.vox.com/2018/11/2/18053424/elon-musk-tesla-spacex-boring-company-self-driving-cars-saudi-twitter-kara-swisher-decode-podcast,-45.26719718121002,4.0,2,8.523719014285831,0.8099531166420328
+401,Elon musk interview,https://archinect.com/news/article/150168155/a-simple-interview-question-elon-musk-uses-to-get-the-truth,-47.08267317705539,2.0,3,9.523719014285831,0.7604545425701508
+403,Elon musk interview,https://www.wired.com/2012/10/ff-elon-musk-qa/,-47.65233930084432,4.0,4,11.246425246579403,0.7894208583503917
+404,Elon musk interview,https://observer.com/2018/08/elon-musk-persona-interviews/,-47.880936702840984,4.0,5,12.793836475517569,0.8100524844200853
+399,Elon musk interview,https://bigthink.com/technology-innovation/elon-musk-interview-1999,-47.884262539810564,4.0,6,14.218665223949658,0.8257704670494864
+402,Elon musk interview,https://www.investopedia.com/4-takeaways-from-elon-musk-s-60-minutes-interview-4580249,-48.686995988822716,3.0,7,15.218665223949658,0.8203248386937396
+410,Elon musk interview,https://www.investopedia.com/4-takeaways-from-elon-musk-s-60-minutes-interview-4580249,-48.686995988822716,3.0,8,16.165059854306843,0.8158461518067414
+398,Elon musk interview,https://www.nytimes.com/2018/08/19/insider/elon-musk-interview.html,-48.70761527602545,4.0,9,17.36917983696277,0.8384043727799008
+405,Elon musk interview,https://www.rd.com/culture/elon-musk-job-interview-brainteaser/,-49.38014316938266,1.0,10,17.658244663280655,0.8181119374296829
+406,Elon musk interview,https://www.cnn.com/videos/cnnmoney/2018/09/07/elon-musk-intv-tesla-stock-erin-simon-pkg-vpx.cnn,-49.688444529037184,2.0,11,18.216130554582914,0.812459471810847
+408,Elon musk interview,https://www.motortrend.com/news/tesla-elon-musk-interview/,-51.411211126778284,4.0,12,19.297083172292194,0.8306363693533175
+409,Elon musk interview,https://www.thehenryford.org/explore/stories-of-innovation/visionaries/elon-musk/,-52.39649473013938,4.0,13,20.34768131244097,0.8564925809191168
+407,Elon musk interview,http://www.parabolicarc.com/2019/10/05/video-interview-with-spacexs-elon-musk/,-54.224621843538316,4.0,14,21.37151341168023,0.8806131540709623
+411,Elon musk interview,https://ark-invest.com/research/podcast/elon-musk-podcast,-54.707047992782606,4.0,15,22.37151341168023,0.9124190948455094

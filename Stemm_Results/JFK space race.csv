@@ -1,0 +1,20 @@
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+179,JFK space race,https://www.houstonchronicle.com/local/space/mission-moon/article/JFK-s-1962-moon-speech-though-deliberate-13960428.php,-48.08857606761923,4.0,0,4.0,1.0
+166,JFK space race,https://www.space.com/jfk-apollo-moonshot-nasa-readiness.html,-49.31852435834843,1.0,1,5.0,0.625
+171,JFK space race,https://www.aaas.org/news/john-f-kennedy-and-race-moon-looking-back-fifty-years,-50.53759595807371,0.0,2,5.0,0.4751172083949178
+172,JFK space race,https://www.jfklibrary.org/learn/about-jfk/jfk-in-history/space-program,-50.73600164690501,0.0,3,5.0,0.3992424290497487
+167,JFK space race,https://jfk.blogs.archives.gov/2019/06/12/representation-in-the-space-race/,-50.87666897639498,1.0,4,5.430676558073393,0.39307870174212384
+170,JFK space race,https://spacecenter.org/this-day-in-history-jfk-delivers-iconic-we-choose-to-go-to-the-moon-speech/,-51.0102003690195,3.0,5,6.591234979777018,0.4401108318140489
+176,JFK space race,https://home.bt.com/news/on-this-day/may-25-1961-kennedy-ramps-up-the-space-race-by-pledging-to-put-a-man-on-the-moon-11363982640825,-51.5091915351385,3.0,6,7.659856541101084,0.47740047325301654
+169,JFK space race,https://www.theatlantic.com/technology/archive/2012/09/moondoggle-the-forgotten-opposition-to-the-apollo-program/262254/,-51.959777078527125,2.0,7,8.326523207767751,0.48850443250452924
+164,JFK space race,https://www.usatoday.com/story/opinion/2013/11/22/kennedy-apollo-program-space-column/3666047/,-52.12683116319029,4.0,8,9.588382714910667,0.5424564105634729
+162,JFK space race,https://history.nasa.gov/moondec.html,-52.55064540996665,0.0,9,9.588382714910667,0.5245883309277736
+177,JFK space race,https://news.rice.edu/2019/09/10/jfks-space-legacy-future-moonshots-in-spotlight-at-sept-12-rice-space-institute-event/,-52.95611051807482,0.0,10,9.588382714910667,0.5164211433569423
+165,JFK space race,https://airandspace.si.edu/exhibitions/apollo-to-the-moon/online/racing-to-space/moon-decision.cfm,-53.42611414732056,4.0,11,10.704154497515187,0.5679824058794503
+173,JFK space race,https://www.history.com/this-day-in-history/jfk-asks-congress-to-support-the-space-program,-53.44858700317262,0.0,12,10.704154497515187,0.5679824058794503
+174,JFK space race,https://www.commonlit.org/en/texts/jfk-s-race-to-space-speech,-55.03555205975465,2.0,13,11.229453567589575,0.5958557544653987
+175,JFK space race,https://www.rferl.org/a/kennedy-moon-speech-rice-university-50th-anniversary/24706222.html,-56.31648590521671,4.0,14,12.253285666828837,0.6501821955754851
+180,JFK space race,https://www.msnbc.com/morning-joe/watch/how-jfk-s-great-space-race-was-accomplished-1470756931548,-56.42184642087453,0.0,15,12.253285666828837,0.6501821955754851
+163,JFK space race,https://www.nasa.gov/feature/john-f-kennedy-and-nasa,-58.619070998210745,3.0,16,12.987237293183515,0.6891270380320131
+168,JFK space race,https://www.jstor.org/stable/27551902?seq=1,-58.619070998210745,0.0,17,12.987237293183515,0.6891270380320131
+178,JFK space race,https://phys.org/news/2011-05-jfk-speech-space-exploration-heights.html,-58.619070998210745,3.0,18,13.69346403328343,0.7266007463040178

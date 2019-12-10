@@ -1,0 +1,21 @@
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+28,Mohammad Ali,https://en.wikipedia.org/wiki/Muhammad_Ali,-36.41110958433613,2.0,0,2.0,0.5
+23,Mohammad Ali,https://en.wikiquote.org/wiki/Muhammad_Ali,-38.85487323560616,4.0,1,6.0,0.8571428571428571
+27,Mohammad Ali,https://www.npr.org/2018/09/21/650435716/muhammad-ali-biography-reveals-a-flawed-rebel-who-loved-attention,-41.516432199294115,1.0,2,6.630929753571458,0.7456524110905091
+34,Mohammad Ali,https://www.usatoday.com/story/sports/2016/06/04/muhammad-ali-fight-by-fight-career/85341622/,-42.8547425228501,0.0,3,6.630929753571458,0.6702790870016601
+32,Mohammad Ali,https://www.smithsonianmag.com/history/connections-between-muhammad-ali-and-nfl-protests-180965310/,-44.39518756379725,2.0,4,7.4922828697182435,0.6966880860568481
+25,Mohammad Ali,https://time.com/5305927/trump-muhammad-ali-pardon/,-44.73813231492409,1.0,5,7.879135676952785,0.6834871246462004
+37,Mohammad Ali,https://www.nbcnews.com/news/sports/muhammad-ali-greatest-all-time-dead-74-n584776,-44.76112183314879,3.0,6,8.947757238276852,0.7310102488867289
+18,Mohammad Ali,https://www.biography.com/athlete/muhammad-ali,-45.264225410820856,1.0,7,9.281090571610186,0.7381413236022202
+33,Mohammad Ali,https://www.washingtonpost.com/news/retropolis/wp/2018/06/15/shoot-them-for-what-how-muhammad-ali-won-his-greatest-fight/,-45.5837480891283,3.0,8,10.227485201967372,0.7935012130579127
+21,Mohammad Ali,https://www.britannica.com/biography/Muhammad-Ali-boxer,-45.806891640442515,0.0,9,10.227485201967372,0.7753915825413943
+22,Mohammad Ali,https://www.newyorker.com/news/news-desk/the-outsized-life-of-muhammad-ali,-46.06558617602104,2.0,10,10.805614854603148,0.819222187760469
+36,Mohammad Ali,https://www.chicagotribune.com/topic/muhammad-ali-topic.html,-47.51072103716386,0.0,11,10.805614854603148,0.819222187760469
+29,Mohammad Ali,https://commons.wikimedia.org/wiki/Category:Muhammad_Ali,-47.91618614527202,0.0,12,10.805614854603148,0.819222187760469
+24,Mohammad Ali,https://www.imdb.com/name/nm0000738/,-48.19381788187031,0.0,13,10.805614854603148,0.819222187760469
+19,Mohammad Ali,https://alicenter.org/about-us/muhammad-ali/,-48.41696143318451,0.0,14,10.805614854603148,0.819222187760469
+26,Mohammad Ali,https://www.theguardian.com/sport/muhammad-ali,-48.442279241168805,0.0,15,10.805614854603148,0.819222187760469
+20,Mohammad Ali,https://twitter.com/MuhammadAli?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor,-48.64010498449872,2.0,16,11.2949159388396,0.8563183002996825
+35,Mohammad Ali,https://www.tmz.com/2019/10/15/khalilah-ali-lebron-james-muhammad-ali-china-nba/,-48.92778705695051,0.0,17,11.2949159388396,0.8563183002996825
+30,Mohammad Ali,https://theundefeated.com/tag/muhammad-ali/,-49.90861630996223,0.0,18,11.2949159388396,0.8563183002996825
+31,Mohammad Ali,https://www.history.com/topics/black-history/muhammad-ali-video,-50.3140814180704,0.0,19,11.2949159388396,0.8563183002996825

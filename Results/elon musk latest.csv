@@ -1,21 +1,21 @@
 ,Query,URL,score,Ranking,QL_rank,DCG,NDCG
-447,elon musk latest,https://www.cbinsights.com/research/report/elon-musk-companies-disruption/,-10.471661517331672,4.0,0,4.0,1.0
+447,elon musk latest,https://www.cbinsights.com/research/report/elon-musk-companies-disruption/,-11.387952249205828,4.0,0,4.0,1.0
 438,elon musk latest,https://twitter.com/elonmusk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor,-11.462873119385616,4.0,1,8.0,1.0
 451,elon musk latest,https://www.9news.com.au/elon-musk,-11.697787126298742,3.0,2,9.892789260714373,0.9400468833579672
 452,elon musk latest,https://www.vox.com/elon-musk,-11.912962507963776,2.0,3,10.892789260714373,0.8697727287149246
 435,elon musk latest,https://www.cnbc.com/elon-musk/,-12.38773941596217,2.0,4,11.754142376861159,0.8507785312163356
-439,elon musk latest,https://www.youtube.com/watch?v=jeplhWnwyMI,-12.496294822516514,2.0,5,12.527847991330242,0.836511157199078
-450,elon musk latest,https://metro.co.uk/tag/elon-musk/,-12.515137910317994,2.0,6,13.240262365546286,0.8251992038479206
-444,elon musk latest,http://www.hurriyetdailynews.com/search/elon%20musk,-12.60610968852372,2.0,7,13.906929032212952,0.8321724378057226
-440,elon musk latest,https://www.mercurynews.com/2019/11/25/teslas-elon-musk-explains-windowgate-shattering-of-cybertruck-windows/,-12.965054780996992,3.0,8,14.853323662570139,0.8564683391818938
-443,elon musk latest,https://www.cnet.com/tags/elon-musk/,-13.105100854642709,3.0,9,15.756413649562083,0.8780595135856036
-445,elon musk latest,https://www.foxbusiness.com/markets/tesla-ceo-elon-musk-fires-back-at-hedge-fund-manager-who-accused-him-of-orchestrating-significant-fraud,-13.417039904740049,4.0,10,16.912672954833635,0.9130774401121825
-436,elon musk latest,https://www.politico.com/news/elon-musk,-14.041194213813045,2.0,11,17.470558846135894,0.9156189151288847
-437,elon musk latest,https://www.wired.com/tag/elon-musk/,-14.184295057453717,2.0,12,18.011035154990534,0.9179432512210013
-446,elon musk latest,https://mashable.com/article/elon-musk-tesla-earnings-full-self-driving/,-14.669802873235417,2.0,13,18.53633422506492,0.9200828089168454
-449,elon musk latest,https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X,-14.839701910030815,1.0,14,18.792292249874734,0.909673084266076
-442,elon musk latest,https://www.popularmechanics.com/elon-musk-latest-news/,-15.609810131726888,2.0,15,19.292292249874734,0.9118076354740993
-441,elon musk latest,https://www.nytimes.com/2019/11/01/business/elon-musk-twitter.html ,-15.737643503236773,2.0,16,19.781593334111186,0.913801049675169
-448,elon musk latest,https://www.tesla.com/elon-musk,-16.189628626979832,2.0,17,20.26121826724745,0.9156694800241465
-433,elon musk latest,https://www.cnbc.com/2019/11/25/elon-musk-tweets-on-cybertruck-orders-say-little-about-actual-sales.html ,-18.423220848486924,4.0,18,21.202853920714002,0.9382609185518878
-434,elon musk latest,https://www.independent.co.uk/topic/elon-musk ,-19.521833137155035,2.0,19,21.66561034703352,0.9490217418604916
+450,elon musk latest,https://metro.co.uk/tag/elon-musk/,-12.515137910317994,2.0,5,12.527847991330242,0.836511157199078
+444,elon musk latest,http://www.hurriyetdailynews.com/search/elon%20musk,-12.60610968852372,2.0,6,13.240262365546286,0.8251992038479206
+440,elon musk latest,https://www.mercurynews.com/2019/11/25/teslas-elon-musk-explains-windowgate-shattering-of-cybertruck-windows/,-12.965054780996992,3.0,7,14.240262365546286,0.8521186683473023
+443,elon musk latest,https://www.cnet.com/tags/elon-musk/,-13.105100854642709,3.0,8,15.186656995903473,0.8756889158608622
+439,elon musk latest,https://www.youtube.com/watch?v=jeplhWnwyMI,-13.41258555439067,2.0,9,15.788716987231435,0.8798596854769992
+445,elon musk latest,https://www.foxbusiness.com/markets/tesla-ceo-elon-musk-fires-back-at-hedge-fund-manager-who-accused-him-of-orchestrating-significant-fraud,-13.417039904740049,4.0,10,16.944976292502986,0.9148214251667615
+436,elon musk latest,https://www.politico.com/news/elon-musk,-14.041194213813045,2.0,11,17.502862183805245,0.9173119088821095
+437,elon musk latest,https://www.wired.com/tag/elon-musk/,-14.184295057453717,2.0,12,18.043338492659885,0.9195896102753435
+446,elon musk latest,https://mashable.com/article/elon-musk-tesla-earnings-full-self-driving/,-14.669802873235417,2.0,13,18.56863756273427,0.9216862406040026
+449,elon musk latest,https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/006230125X,-14.839701910030815,1.0,14,18.824595587544085,0.9112367826387406
+442,elon musk latest,https://www.popularmechanics.com/elon-musk-latest-news/,-15.609810131726888,2.0,15,19.324595587544085,0.9133343814696875
+441,elon musk latest,https://www.nytimes.com/2019/11/01/business/elon-musk-twitter.html ,-15.737643503236773,2.0,16,19.813896671780537,0.9152932865931811
+448,elon musk latest,https://www.tesla.com/elon-musk,-16.189628626979832,2.0,17,20.2935216049168,0.9171293715280328
+433,elon musk latest,https://www.cnbc.com/2019/11/25/elon-musk-tweets-on-cybertruck-orders-say-little-about-actual-sales.html ,-18.423220848486924,4.0,18,21.235157258383353,0.9396903940077521
+434,elon musk latest,https://www.independent.co.uk/topic/elon-musk ,-19.521833137155035,2.0,19,21.697913684702872,0.9504367294510477
