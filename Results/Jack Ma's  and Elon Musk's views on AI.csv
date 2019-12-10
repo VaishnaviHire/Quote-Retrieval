@@ -1,20 +1,20 @@
-,Query,URL,score,Ranking,QL_rank,DCG
-364,Jack Ma's  and Elon Musk's views on AI,https://www.wired.com/story/elon-musk-humanity-biological-boot-loader-ai/,-35.67466259111661,2.0,0,2.0
-365,Jack Ma's  and Elon Musk's views on AI,https://interestingengineering.com/alibabas-jack-ma-and-teslas-elon-musks-interesting-ai-debate-in-shanghai,-39.11021170882054,4.0,1,6.0
-361,Jack Ma's  and Elon Musk's views on AI,https://marketrealist.com/2019/08/elon-musk-jack-ma-whos-right-about-ai/,-39.341135447453716,4.0,2,8.523719014285831
-363,Jack Ma's  and Elon Musk's views on AI,https://www.geekwire.com/2019/billionaires-jack-ma-elon-musk-debate-good-evil-ai-conference-china/,-39.763753634788124,3.0,3,10.023719014285831
-360,Jack Ma's  and Elon Musk's views on AI,https://observer.com/2019/08/elon-musk-jack-ma-debate-ai-china-conference-tesla-boring-company/ ,-40.11416337925313,4.0,4,11.746425246579403
-370,Jack Ma's  and Elon Musk's views on AI,https://www.forbes.com/sites/daviddawkins/2019/08/29/where-are-the-aliens-jack-ma-and-elon-musks-weird-debate-on-space-ai-and-the-future-of-work/#6f4dd8e95e68 ,-40.393227720486934,3.0,5,12.906983668283027
-374,Jack Ma's  and Elon Musk's views on AI,https://www.techspot.com/news/81700-elon-musk-jack-ma-discuss-ai-world-artificial.html,-40.47670344264425,4.0,6,14.331812416715117
-362,Jack Ma's  and Elon Musk's views on AI,https://thenextweb.com/artificial-intelligence/2019/09/03/elon-musk-seemed-unhinged-debating-ai-with-jack-ma/ ,-40.633908892466465,4.0,7,15.66514575004845
-369,Jack Ma's  and Elon Musk's views on AI,https://thenextweb.com/artificial-intelligence/2019/09/03/elon-musk-seemed-unhinged-debating-ai-with-jack-ma/,-40.633908892466465,4.0,8,16.927005257191365
-373,Jack Ma's  and Elon Musk's views on AI,https://www.youtube.com/watch?v=Mchz9q84_BA ,-41.32008740371032,4.0,9,18.13112523984729
-372,Jack Ma's  and Elon Musk's views on AI,https://www.youtube.com/watch?v=f3lUEnMaiAU,-43.97489309029372,3.0,10,18.998319718800953
-377,Jack Ma's  and Elon Musk's views on AI,https://www.datacamp.com/community/news/jack-ma-vs-elon-musk-debate-different-perspectives-of-future-of-ai-aekfdnumwyk,-49.57331504929209,3.0,11,19.835148555754344
-368,Jack Ma's  and Elon Musk's views on AI,https://www.cnbc.com/2019/08/30/elon-musk-jack-ma-biggest-problem-world-will-face-is-population-drop.html ,-50.11231155002478,0.0,12,19.835148555754344
-359,Jack Ma's  and Elon Musk's views on AI,https://www.bbc.com/news/technology-49508091 ,-50.26646222985204,4.0,13,20.88574669590312
-376,Jack Ma's  and Elon Musk's views on AI,https://www.bloomberg.com/news/articles/2019-08-28/musk-to-join-china-ai-summit-despite-trump-ordering-firms-out,-50.44878378664599,4.0,14,21.90957879514238
-367,Jack Ma's  and Elon Musk's views on AI,https://www.livemint.com/companies/people/when-elon-musk-met-jack-ma-debate-on-ai-mars-the-end-of-civilisation-1567135372497.html ,-50.6719273379602,3.0,15,22.65957879514238
-371,Jack Ma's  and Elon Musk's views on AI,https://www.scmp.com/tech/tech-leaders-and-founders/article/3024847/alibabas-jack-ma-sees-ai-opening-new-human-chapter ,-52.05822169908009,1.0,16,22.904229337260606
-366,Jack Ma's  and Elon Musk's views on AI,https://www.fairobserver.com/region/asia_pacific/artificial-intelligence-jack-ma-elon-musk-technology-news-34809/,-52.05822169908009,3.0,17,23.623666736965
-375,Jack Ma's  and Elon Musk's views on AI,https://finance.yahoo.com/news/elon-musk-and-jack-ma-ai-conference-shanghai-140324097.html ,-52.05822169908009,4.0,18,24.56530239043155
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+364,Jack Ma's  and Elon Musk's views on AI,https://www.wired.com/story/elon-musk-humanity-biological-boot-loader-ai/,-35.67466259111661,2.0,0,2.0,0.5
+361,Jack Ma's  and Elon Musk's views on AI,https://marketrealist.com/2019/08/elon-musk-jack-ma-whos-right-about-ai/,-39.07407266220467,4.0,1,6.0,0.75
+365,Jack Ma's  and Elon Musk's views on AI,https://interestingengineering.com/alibabas-jack-ma-and-teslas-elon-musks-interesting-ai-debate-in-shanghai,-39.11021170882054,4.0,2,8.523719014285831,0.8099531166420328
+363,Jack Ma's  and Elon Musk's views on AI,https://www.geekwire.com/2019/billionaires-jack-ma-elon-musk-debate-good-evil-ai-conference-china/,-39.917904314615384,3.0,3,10.023719014285831,0.8003787854751256
+360,Jack Ma's  and Elon Musk's views on AI,https://observer.com/2019/08/elon-musk-jack-ma-debate-ai-china-conference-tesla-boring-company/ ,-40.11416337925313,4.0,4,11.746425246579403,0.8245173819586598
+370,Jack Ma's  and Elon Musk's views on AI,https://www.forbes.com/sites/daviddawkins/2019/08/29/where-are-the-aliens-jack-ma-and-elon-musks-weird-debate-on-space-ai-and-the-future-of-work/#6f4dd8e95e68 ,-40.393227720486934,3.0,5,12.906983668283027,0.8172164938069654
+374,Jack Ma's  and Elon Musk's views on AI,https://www.techspot.com/news/81700-elon-musk-jack-ma-discuss-ai-world-artificial.html,-40.60632093594764,4.0,6,14.331812416715117,0.8323416612328823
+362,Jack Ma's  and Elon Musk's views on AI,https://thenextweb.com/artificial-intelligence/2019/09/03/elon-musk-seemed-unhinged-debating-ai-with-jack-ma/ ,-40.80096297712963,4.0,7,15.66514575004845,0.844391276857811
+369,Jack Ma's  and Elon Musk's views on AI,https://thenextweb.com/artificial-intelligence/2019/09/03/elon-musk-seemed-unhinged-debating-ai-with-jack-ma/,-40.80096297712963,4.0,8,16.927005257191365,0.8543013279974162
+373,Jack Ma's  and Elon Musk's views on AI,https://www.youtube.com/watch?v=Mchz9q84_BA ,-42.05145579709047,4.0,9,18.13112523984729,0.8626484050574335
+372,Jack Ma's  and Elon Musk's views on AI,https://www.youtube.com/watch?v=f3lUEnMaiAU,-43.68721101784194,3.0,10,18.998319718800953,0.8680909275994867
+377,Jack Ma's  and Elon Musk's views on AI,https://www.datacamp.com/community/news/jack-ma-vs-elon-musk-debate-different-perspectives-of-future-of-ai-aekfdnumwyk,-49.57331504929209,3.0,11,19.835148555754344,0.872949008271039
+368,Jack Ma's  and Elon Musk's views on AI,https://www.cnbc.com/2019/08/30/elon-musk-jack-ma-biggest-problem-world-will-face-is-population-drop.html ,-50.11231155002478,0.0,12,19.835148555754344,0.8428754548427979
+359,Jack Ma's  and Elon Musk's views on AI,https://www.bbc.com/news/technology-49508091 ,-50.26646222985204,4.0,13,20.88574669590312,0.8587654648510745
+376,Jack Ma's  and Elon Musk's views on AI,https://www.bloomberg.com/news/articles/2019-08-28/musk-to-join-china-ai-summit-despite-trump-ordering-firms-out,-50.44878378664599,4.0,14,21.90957879514238,0.873290358865142
+367,Jack Ma's  and Elon Musk's views on AI,https://www.livemint.com/companies/people/when-elon-musk-met-jack-ma-debate-on-ai-mars-the-end-of-civilisation-1567135372497.html ,-50.6719273379602,3.0,15,22.65957879514238,0.8769682847985213
+371,Jack Ma's  and Elon Musk's views on AI,https://www.scmp.com/tech/tech-leaders-and-founders/article/3024847/alibabas-jack-ma-sees-ai-opening-new-human-chapter ,-52.05822169908009,1.0,16,22.904229337260606,0.8699623552066229
+366,Jack Ma's  and Elon Musk's views on AI,https://www.fairobserver.com/region/asia_pacific/artificial-intelligence-jack-ma-elon-musk-technology-news-34809/,-52.05822169908009,3.0,17,23.623666736965,0.8891891043522501
+375,Jack Ma's  and Elon Musk's views on AI,https://finance.yahoo.com/news/elon-musk-and-jack-ma-ai-conference-shanghai-140324097.html ,-52.05822169908009,4.0,18,24.56530239043155,0.9246320426841697

@@ -1,20 +1,20 @@
-,Query,URL,score,Ranking,QL_rank,DCG
-385,quotes by Elon Musk,https://www.yourselfquotes.com/elon-musk-quotes/,-11.786399784655346,4.0,0,4.0
-390,quotes by Elon Musk,https://www.yourselfquotes.com/elon-musk-quotes/,-11.786399784655346,3.0,1,7.0
-382,quotes by Elon Musk,https://quotefancy.com/elon-musk-quotes,-13.18589010957003,3.0,2,8.892789260714373
-393,quotes by Elon Musk,https://en.wikiquote.org/wiki/Elon_Musk,-14.720151503981768,4.0,3,10.892789260714373
-387,quotes by Elon Musk,https://www.amazon.com/Elon-Musk-Entrepreneur-Inspirational-Extraordinary-ebook/dp/B075X3SKZK,-16.090256153166628,2.0,4,11.754142376861159
-379,quotes by Elon Musk,https://www.toolshero.com/toolsheroes/elon-musk/,-17.28653661186941,4.0,5,13.301553605799326
-392,quotes by Elon Musk,https://startupmindset.com/25-inspiring-quotes-from-elon-musk/,-18.310425354341582,4.0,6,14.726382354231415
-391,quotes by Elon Musk,https://www.geckoandfly.com/20892/elon-musk-quotes/,-18.373720204713894,4.0,7,16.059715687564747
-381,quotes by Elon Musk,https://www.azquotes.com/author/10617-Elon_Musk/tag/artificial-intelligence,-18.715890462449742,4.0,8,17.321575194707663
-380,quotes by Elon Musk,https://www.businessinsider.com/best-elon-musk-quotes-tesla-2013-11,-19.22671608621574,4.0,9,18.525695177363588
-389,quotes by Elon Musk,https://www.goodreads.com/author/quotes/7221234.Elon_Musk,-19.267538080735992,4.0,10,19.68195448263514
-386,quotes by Elon Musk,https://www.brainyquote.com/authors/elon-musk-quotes,-19.321026765686977,4.0,11,20.797726265239657
-384,quotes by Elon Musk,https://elonmusknews.org/blog/elon-musk-spacex-mars-quotes ,-19.99842558927878,4.0,12,21.878678882948936
-388,quotes by Elon Musk,https://www.youthkiawaaz.com/2019/08/some-quotes-by-elon-musk-that-will-motivate-you-to-follow-your-dreams/,-20.548471926198054,3.0,13,22.666627488060517
-378,quotes by Elon Musk,https://www.inc.com/peter-economy/11-elon-musk-quotes-that-will-push-you-to-achieve-impossible.html,-20.771615477512263,4.0,14,23.690459587299777
-394,quotes by Elon Musk,https://blog.runrun.it/en/inspiring-quotes-elon-musk/,-21.310611978244953,2.0,15,24.190459587299777
-395,quotes by Elon Musk,https://in.pinterest.com/natla_ml/elon-musk/,-22.1170878441119,4.0,16,25.16906175577268
-383,quotes by Elon Musk,https://www.fool.com/investing/2016/09/10/8-perfectly-genius-elon-musk-quotes.aspx ,-26.029110849540047,4.0,17,26.128311622045207
-396,quotes by Elon Musk,https://www.success.com/11-elon-musk-quotes-that-will-inspire-you-to-dream-bigger/,-26.029110849540047,4.0,18,27.06994727551176
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+385,quotes by Elon Musk,https://www.yourselfquotes.com/elon-musk-quotes/,-11.786399784655346,4.0,0,4.0,1.0
+390,quotes by Elon Musk,https://www.yourselfquotes.com/elon-musk-quotes/,-11.786399784655346,3.0,1,7.0,0.875
+382,quotes by Elon Musk,https://quotefancy.com/elon-musk-quotes,-13.18589010957003,3.0,2,8.892789260714373,0.8450234416789836
+393,quotes by Elon Musk,https://en.wikiquote.org/wiki/Elon_Musk,-14.720151503981768,4.0,3,10.892789260714373,0.8697727287149246
+387,quotes by Elon Musk,https://www.amazon.com/Elon-Musk-Entrepreneur-Inspirational-Extraordinary-ebook/dp/B075X3SKZK,-16.090256153166628,2.0,4,11.754142376861159,0.8250590708489033
+379,quotes by Elon Musk,https://www.toolshero.com/toolsheroes/elon-musk/,-17.28653661186941,4.0,5,13.301553605799326,0.842199020258213
+392,quotes by Elon Musk,https://startupmindset.com/25-inspiring-quotes-from-elon-musk/,-18.310425354341582,4.0,6,14.726382354231415,0.8552569065428083
+391,quotes by Elon Musk,https://www.geckoandfly.com/20892/elon-musk-quotes/,-18.373720204713894,4.0,7,16.059715687564747,0.8656596020087635
+381,quotes by Elon Musk,https://www.azquotes.com/author/10617-Elon_Musk/tag/artificial-intelligence,-18.715890462449742,4.0,8,17.321575194707663,0.8742151648803358
+380,quotes by Elon Musk,https://www.businessinsider.com/best-elon-musk-quotes-tesla-2013-11,-19.22671608621574,4.0,9,18.525695177363588,0.8814213782060604
+389,quotes by Elon Musk,https://www.goodreads.com/author/quotes/7221234.Elon_Musk,-19.267538080735992,4.0,10,19.68195448263514,0.8876045732660234
+386,quotes by Elon Musk,https://www.brainyquote.com/authors/elon-musk-quotes,-19.321026765686977,4.0,11,20.797726265239657,0.8929891845350387
+384,quotes by Elon Musk,https://elonmusknews.org/blog/elon-musk-spacex-mars-quotes ,-19.99842558927878,4.0,12,21.878678882948936,0.8977355553296749
+388,quotes by Elon Musk,https://www.youthkiawaaz.com/2019/08/some-quotes-by-elon-musk-that-will-motivate-you-to-follow-your-dreams/,-20.548471926198054,3.0,13,22.666627488060517,0.8916300802794571
+378,quotes by Elon Musk,https://www.inc.com/peter-economy/11-elon-musk-quotes-that-will-push-you-to-achieve-impossible.html,-20.771615477512263,4.0,14,23.690459587299777,0.9045808174750535
+394,quotes by Elon Musk,https://blog.runrun.it/en/inspiring-quotes-elon-musk/,-21.310611978244953,2.0,15,24.190459587299777,0.8979572331293971
+395,quotes by Elon Musk,https://in.pinterest.com/natla_ml/elon-musk/,-22.1170878441119,4.0,16,25.16906175577268,0.9095042480669021
+383,quotes by Elon Musk,https://www.fool.com/investing/2016/09/10/8-perfectly-genius-elon-musk-quotes.aspx ,-26.029110849540047,4.0,17,26.128311622045207,0.9280823305639615
+396,quotes by Elon Musk,https://www.success.com/11-elon-musk-quotes-that-will-inspire-you-to-dream-bigger/,-26.029110849540047,4.0,18,27.06994727551176,0.9457137228895691

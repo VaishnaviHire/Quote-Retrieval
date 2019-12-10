@@ -1,17 +1,17 @@
-,Query,URL,score,Ranking,QL_rank,DCG
-490,elon musk on clean energy,https://news.energysage.com/tesla-energy-has-elon-musk-invented-the-first-clean-power-utility/,-19.17784063783662,3.0,0,3.0
-498,elon musk on clean energy,https://www.theguardian.com/sustainable-business/2017/mar/20/elon-musk-port-augusta-four-renewable-energy-projects,-22.49313906701377,2.0,1,5.0
-492,elon musk on clean energy,https://inhabitat.com/elon-musk-has-a-simple-plan-to-power-the-us-entirely-on-renewable-energy/,-22.51671925509952,4.0,2,7.52371901428583
-491,elon musk on clean energy,https://www.inverse.com/article/58024-tesla-how-elon-musk-s-terawatt-hour-plan-may-spark-shift-to-clean-energy,-22.584110845219495,4.0,3,9.523719014285831
-496,elon musk on clean energy,http://www.itechpost.com/articles/101819/20191021/elon-musk-returns-to-twitter-tesla-now-offers-powerwall-to-promote-clean-energy.htm,-22.66130048391063,2.0,4,10.385072130432617
-501,elon musk on clean energy,https://electrek.co/2019/10/24/tesla-energy-distributed-global-utility-outgrow-auto-business-elon-musk/,-23.030397947847916,4.0,5,11.932483359370783
-488,elon musk on clean energy,https://www.raycap.com/elon-musk-calls-green-energy-technology-awareness/,-23.723545128407864,4.0,6,13.357312107802873
-499,elon musk on clean energy,https://www.aps.org/careers/physicists/profiles/musk.cfm,-23.772335292577296,2.0,7,14.023978774469539
-489,elon musk on clean energy,https://futurism.com/elon-musk-says-we-must-switch-to-renewables-or-plunge-into-the-dark-ages,-24.011227200859643,4.0,8,15.285838281612454
-502,elon musk on clean energy,https://www.cleanenergywire.org/news/thank-you-elon-musk-showing-german-car-managers-ropes-commentary,-24.570842988795064,0.0,9,15.285838281612454
-494,elon musk on clean energy,https://twitter.com/elonmusk/status/945728690507231232?lang=en,-25.01452930972343,3.0,10,16.153032760566116
-495,elon musk on clean energy,https://www.fool.com/investing/2019/05/26/why-tesla-should-abandon-solar-energy-right-now.aspx,-26.36260245802312,1.0,11,16.431975706217248
-487,elon musk on clean energy,https://thebossmagazine.com/elon-musk-renewable-energy/,-32.53638856192506,4.0,12,17.512928323926527
-493,elon musk on clean energy,https://www.renewableenergyworld.com/2017/05/12/what-elon-musk-can-teach-us-about-investing-in-clean-energy-stocks/#gref,-32.53638856192506,2.0,13,18.038227394000913
-497,elon musk on clean energy,https://www.independent.co.uk/news/world/australasia/elon-musk-tesla-batteries-australia-homes-virtual-power-plants-free-solar-panels-a8196656.html,-32.53638856192506,2.0,14,18.550143443620545
-500,elon musk on clean energy,https://www.huffpost.com/entry/elon-musk-tesla-puerto-rico-renewable-energy_n_5ca51e99e4b082d775dfec35,-32.53638856192506,1.0,15,18.800143443620545
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+490,elon musk on clean energy,https://news.energysage.com/tesla-energy-has-elon-musk-invented-the-first-clean-power-utility/,-19.17784063783662,3.0,0,3.0,0.75
+498,elon musk on clean energy,https://www.theguardian.com/sustainable-business/2017/mar/20/elon-musk-port-augusta-four-renewable-energy-projects,-22.49313906701377,2.0,1,5.0,0.625
+492,elon musk on clean energy,https://inhabitat.com/elon-musk-has-a-simple-plan-to-power-the-us-entirely-on-renewable-energy/,-22.51671925509952,4.0,2,7.52371901428583,0.7149296749630493
+491,elon musk on clean energy,https://www.inverse.com/article/58024-tesla-how-elon-musk-s-terawatt-hour-plan-may-spark-shift-to-clean-energy,-22.584110845219495,4.0,3,9.523719014285831,0.7604545425701508
+496,elon musk on clean energy,http://www.itechpost.com/articles/101819/20191021/elon-musk-returns-to-twitter-tesla-now-offers-powerwall-to-promote-clean-energy.htm,-22.66130048391063,2.0,4,10.385072130432617,0.7289598583985899
+501,elon musk on clean energy,https://electrek.co/2019/10/24/tesla-energy-distributed-global-utility-outgrow-auto-business-elon-musk/,-23.030397947847916,4.0,5,11.932483359370783,0.7555151896037187
+488,elon musk on clean energy,https://www.raycap.com/elon-musk-calls-green-energy-technology-awareness/,-23.723545128407864,4.0,6,13.357312107802873,0.7921331563061204
+499,elon musk on clean energy,https://www.aps.org/careers/physicists/profiles/musk.cfm,-23.772335292577296,2.0,7,14.023978774469539,0.7851091235900923
+489,elon musk on clean energy,https://futurism.com/elon-musk-says-we-must-switch-to-renewables-or-plunge-into-the-dark-ages,-24.011227200859643,4.0,8,15.285838281612454,0.8265569540231334
+502,elon musk on clean energy,https://www.cleanenergywire.org/news/thank-you-elon-musk-showing-german-car-managers-ropes-commentary,-24.570842988795064,0.0,9,15.285838281612454,0.8004964563454057
+494,elon musk on clean energy,https://twitter.com/elonmusk/status/945728690507231232?lang=en,-25.01452930972343,3.0,10,16.153032760566116,0.8210521352532937
+495,elon musk on clean energy,https://www.fool.com/investing/2019/05/26/why-tesla-should-abandon-solar-energy-right-now.aspx,-25.55167224180679,1.0,11,16.431975706217248,0.8121990704132959
+487,elon musk on clean energy,https://thebossmagazine.com/elon-musk-renewable-energy/,-32.53638856192506,4.0,12,17.512928323926527,0.843105103907146
+493,elon musk on clean energy,https://www.renewableenergyworld.com/2017/05/12/what-elon-musk-can-teach-us-about-investing-in-clean-energy-stocks/#gref,-32.53638856192506,2.0,13,18.038227394000913,0.8575507345822273
+497,elon musk on clean energy,https://www.independent.co.uk/news/world/australasia/elon-musk-tesla-batteries-australia-homes-virtual-power-plants-free-solar-panels-a8196656.html,-32.53638856192506,2.0,14,18.550143443620545,0.8712854241959794
+500,elon musk on clean energy,https://www.huffpost.com/entry/elon-musk-tesla-puerto-rico-renewable-energy_n_5ca51e99e4b082d775dfec35,-32.53638856192506,1.0,15,18.800143443620545,0.8830277245566758

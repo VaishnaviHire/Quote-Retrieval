@@ -1,18 +1,18 @@
-,Query,URL,score,Ranking,QL_rank,DCG
-69,Gladiator Russell Crowe Quotes,https://quotecatalog.com/quotes/movies/gladiator/,-15.981522953030161,3.0,0,3.0
-57,Gladiator Russell Crowe Quotes,https://www.bustle.com/articles/79042-every-pop-culture-reference-comes-from-russell-crowes-gladiator-because-fans-of-the-film-were,-17.637480881099155,3.0,1,6.0
-54,Gladiator Russell Crowe Quotes,https://www.moviequotes.com/s-movie/gladiator,-18.206666120050727,2.0,2,7.2618595071429155
-68,Gladiator Russell Crowe Quotes,https://www.moviequotes.com/s-movie/gladiator/,-18.206666120050727,4.0,3,9.261859507142916
-62,Gladiator Russell Crowe Quotes,https://www.moviequotesandmore.com/gladiator-quotes/,-18.82125097810757,4.0,4,10.984565739436487
-60,Gladiator Russell Crowe Quotes,https://www.news.com.au/entertainment/movies/gladiator-things-you-never-knew-about-the-2000-film/news-story/300619d8bbcb4526a71ec54a1ebb0085,-18.939034013763955,1.0,5,11.371418546671029
-66,Gladiator Russell Crowe Quotes,https://www.imdb.com/title/tt0172495/characters/nm0000128,-20.09421665392046,3.0,6,12.440040107995095
-55,Gladiator Russell Crowe Quotes,https://www.moviemistakes.com/film541/quotes,-20.617464797685003,4.0,7,13.77337344132843
-63,Gladiator Russell Crowe Quotes,https://www.quotes.net/movies/gladiator_4541,-21.146308926953672,4.0,8,15.035232948471345
-70,Gladiator Russell Crowe Quotes,http://quoteshub.weebly.com/gladiator.html,-21.52930117920978,4.0,9,16.239352931127268
-64,Gladiator Russell Crowe Quotes,https://en.wikiquote.org/wiki/Gladiator_(2000_film),-21.55177403506184,3.0,10,17.106547410080932
-59,Gladiator Russell Crowe Quotes,https://matthewwarner.com/2019/01/apropos-quotes-from-gladiator/,-22.157909838632154,2.0,11,17.66443330138319
-67,Gladiator Russell Crowe Quotes,https://www.imdb.com/title/tt0172495/characters/nm0001618,-22.62791346787789,3.0,12,18.47514776466515
-58,Gladiator Russell Crowe Quotes,https://www.newsmax.com/fastfeatures/russell-crowe-role-maximus-iconic/2015/03/29/id/630509/,-22.627913467877892,1.0,13,18.737797299702343
-65,Gladiator Russell Crowe Quotes,https://www.pinterest.com/stephenridyard/gladiator-quotes/,-23.544204199752045,3.0,14,19.50567137413179
-56,Gladiator Russell Crowe Quotes,https://www.telegraph.co.uk/culture/film/oscars/9093656/Oscars-Best-lines-in-winning-Best-Films.html?image=10,-24.237351380311992,0.0,15,19.50567137413179
-61,Gladiator Russell Crowe Quotes,http://www.destinationhollywood.com/celebrities/russellcrowe/famouslines_content.shtml ,-26.029110849540047,2.0,16,19.99497245836824
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+69,Gladiator Russell Crowe Quotes,https://quotecatalog.com/quotes/movies/gladiator/,-15.981522953030161,3.0,0,3.0,0.75
+57,Gladiator Russell Crowe Quotes,https://www.bustle.com/articles/79042-every-pop-culture-reference-comes-from-russell-crowes-gladiator-because-fans-of-the-film-were,-17.637480881099155,3.0,1,6.0,0.75
+54,Gladiator Russell Crowe Quotes,https://www.moviequotes.com/s-movie/gladiator,-18.206666120050727,2.0,2,7.2618595071429155,0.6900468833579672
+68,Gladiator Russell Crowe Quotes,https://www.moviequotes.com/s-movie/gladiator/,-18.206666120050727,4.0,3,9.261859507142916,0.7395454574298492
+62,Gladiator Russell Crowe Quotes,https://www.moviequotesandmore.com/gladiator-quotes/,-18.75671245697,4.0,4,10.984565739436487,0.7710401416014101
+60,Gladiator Russell Crowe Quotes,https://www.news.com.au/entertainment/movies/gladiator-things-you-never-knew-about-the-2000-film/news-story/300619d8bbcb4526a71ec54a1ebb0085,-18.939034013763955,1.0,5,11.371418546671029,0.7380690985011132
+66,Gladiator Russell Crowe Quotes,https://www.imdb.com/title/tt0172495/characters/nm0000128,-20.09421665392046,3.0,6,12.440040107995095,0.7550581562636629
+55,Gladiator Russell Crowe Quotes,https://www.moviemistakes.com/film541/quotes,-20.617464797685003,4.0,7,13.77337344132843,0.7881485797123432
+63,Gladiator Russell Crowe Quotes,https://www.quotes.net/movies/gladiator_4541,-21.146308926953672,4.0,8,15.035232948471345,0.8161563925069152
+70,Gladiator Russell Crowe Quotes,http://quoteshub.weebly.com/gladiator.html,-21.52930117920978,4.0,9,16.239352931127268,0.8403248346959188
+64,Gladiator Russell Crowe Quotes,https://en.wikiquote.org/wiki/Gladiator_(2000_film),-21.55177403506184,3.0,10,17.106547410080932,0.8471823759004092
+59,Gladiator Russell Crowe Quotes,https://matthewwarner.com/2019/01/apropos-quotes-from-gladiator/,-22.157909838632154,2.0,11,17.66443330138319,0.8512910070843971
+67,Gladiator Russell Crowe Quotes,https://www.imdb.com/title/tt0172495/characters/nm0001618,-22.62791346787789,3.0,12,18.47514776466515,0.8677588884886827
+58,Gladiator Russell Crowe Quotes,https://www.newsmax.com/fastfeatures/russell-crowe-role-maximus-iconic/2015/03/29/id/630509/,-22.627913467877892,1.0,13,18.737797299702343,0.858903741629091
+65,Gladiator Russell Crowe Quotes,https://www.pinterest.com/stephenridyard/gladiator-quotes/,-23.544204199752045,3.0,14,19.50567137413179,0.8837330802594077
+56,Gladiator Russell Crowe Quotes,https://www.telegraph.co.uk/culture/film/oscars/9093656/Oscars-Best-lines-in-winning-Best-Films.html?image=10,-24.237351380311992,0.0,15,19.50567137413179,0.8738354804033861
+61,Gladiator Russell Crowe Quotes,http://www.destinationhollywood.com/celebrities/russellcrowe/famouslines_content.shtml ,-26.029110849540047,2.0,16,19.99497245836824,0.8957557024662214

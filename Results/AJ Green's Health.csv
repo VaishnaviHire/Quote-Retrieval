@@ -1,18 +1,18 @@
-,Query,URL,score,Ranking,QL_rank,DCG
-112,AJ Green's Health,https://www.lineups.com/articles/a-j-green-fantasy-football-outlook-value-2019/,-15.832953683041097,0.0,0,0.0
-106,AJ Green's Health,https://www.cbssports.com/fantasy/football/players/news/1673207/aj-green/,-15.995472612538874,2.0,1,2.0
-110,AJ Green's Health,https://sports.yahoo.com/aj-green-wont-make-bengals-debut-on-sunday-due-to-injury-setback-194418200.html,-17.036926487367033,4.0,2,4.52371901428583
-121,AJ Green's Health,https://www.daytondailynews.com/sports/things-look-forward-dismal-bengals-season/Plya5x91EfQJgXAYnHyxKM/,-17.036926487367033,0.0,3,4.52371901428583
-122,AJ Green's Health,https://www.4for4.com/fantasy-football/2019/preseason/dont-be-afraid-drafting-tyler-boyd,-17.21924804416099,0.0,4,4.52371901428583
-109,AJ Green's Health,https://www.fanduel.com/theduel/posts/a-j-green-fantasy-value-takes-a-hit-with-latest-injury-update-01dk9qrtarb6,-17.21924804416099,2.0,5,5.297424628754913
-114,AJ Green's Health,https://www.sportingnews.com/us/nfl/news/aj-green-injury-update-bengals-receiver-says-he-still-has-a-little-ways-to-go-before-returning/8z3wtncheb6o1asx65h43m628,-17.4423915954752,4.0,6,6.722253377187002
-115,AJ Green's Health,https://bleacherreport.com/articles/2828368-how-much-is-aj-green-worth-in-todays-nfl,-17.57592298809972,2.0,7,7.388920043853669
-117,AJ Green's Health,https://www.actionnetwork.com/nfl/aj-green-fantasy-football-rankings-projections-analysis-2019,-17.73007366792698,0.0,8,7.388920043853669
-111,AJ Green's Health,https://www.usatoday.com/story/sports/nfl/bengals/2019/10/30/a-j-green-return-injury-contract-talks-franchise-tag-bengals/4101821002/,-18.423220848486924,4.0,9,8.593040026509593
-113,AJ Green's Health,https://heavy.com/sports/2019/09/aj-green-injury-return-when-what-happened/,-18.423220848486924,4.0,10,9.749299331781145
-116,AJ Green's Health,https://abc7news.com/sports/sources-aj-green-unhappy-with-teams-decision-not-to-play-him/1671657/,-18.423220848486924,1.0,11,10.028242277432275
-120,AJ Green's Health,https://www.amazon.com/Majestic-Cincinnati-Bengals-Hashmark-Jersey/dp/B06XHT72SF,-18.423220848486924,0.0,12,10.028242277432275
-108,AJ Green's Health,http://www.nfl.com/news/story/0ap3000001037994/article/aj-green-will-miss-multiple-regularseason-games,-18.423220848486924,3.0,13,10.816190882543856
-107,AJ Green's Health,https://www.rotoworld.com/football/nfl/player/1622/aj-green,-19.521833137155035,0.0,14,10.816190882543856
-118,AJ Green's Health,https://www.reddit.com/r/fantasyfootball/comments/czbbvs/ekeler_and_aj_green_flex_stack/,-19.521833137155035,0.0,15,10.816190882543856
-119,AJ Green's Health,https://clutchpoints.com/bengals-news-aj-green-to-give-an-update-on-his-status-next-week/,-19.521833137155035,1.0,16,11.060841424662081
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+112,AJ Green's Health,https://www.lineups.com/articles/a-j-green-fantasy-football-outlook-value-2019/,-15.832953683041097,0.0,0,0.0,0.0
+106,AJ Green's Health,https://www.cbssports.com/fantasy/football/players/news/1673207/aj-green/,-15.995472612538874,2.0,1,2.0,0.25
+110,AJ Green's Health,https://sports.yahoo.com/aj-green-wont-make-bengals-debut-on-sunday-due-to-injury-setback-194418200.html,-17.036926487367033,4.0,2,4.52371901428583,0.4298593499260986
+121,AJ Green's Health,https://www.daytondailynews.com/sports/things-look-forward-dismal-bengals-season/Plya5x91EfQJgXAYnHyxKM/,-17.036926487367033,0.0,3,4.52371901428583,0.36121211352040195
+122,AJ Green's Health,https://www.4for4.com/fantasy-football/2019/preseason/dont-be-afraid-drafting-tyler-boyd,-17.21924804416099,0.0,4,4.52371901428583,0.32743205716019796
+109,AJ Green's Health,https://www.fanduel.com/theduel/posts/a-j-green-fantasy-value-takes-a-hit-with-latest-injury-update-01dk9qrtarb6,-17.21924804416099,2.0,5,5.297424628754913,0.36309957307139706
+114,AJ Green's Health,https://www.sportingnews.com/us/nfl/news/aj-green-injury-update-bengals-receiver-says-he-still-has-a-little-ways-to-go-before-returning/8z3wtncheb6o1asx65h43m628,-17.4423915954752,4.0,6,6.722253377187002,0.43930931045089594
+115,AJ Green's Health,https://bleacherreport.com/articles/2828368-how-much-is-aj-green-worth-in-todays-nfl,-17.57592298809972,2.0,7,7.388920043853669,0.4627174555928055
+117,AJ Green's Health,https://www.actionnetwork.com/nfl/aj-green-fantasy-football-rankings-projections-analysis-2019,-17.73007366792698,0.0,8,7.388920043853669,0.4537533740933384
+111,AJ Green's Health,https://www.usatoday.com/story/sports/nfl/bengals/2019/10/30/a-j-green-return-injury-contract-talks-franchise-tag-bengals/4101821002/,-18.423220848486924,4.0,9,8.593040026509593,0.5181202514819865
+113,AJ Green's Health,https://heavy.com/sports/2019/09/aj-green-injury-return-when-what-happened/,-18.423220848486924,4.0,10,9.749299331781145,0.5878372969254516
+116,AJ Green's Health,https://abc7news.com/sports/sources-aj-green-unhappy-with-teams-decision-not-to-play-him/1671657/,-18.423220848486924,1.0,11,10.028242277432275,0.6046562560719266
+120,AJ Green's Health,https://www.amazon.com/Majestic-Cincinnati-Bengals-Hashmark-Jersey/dp/B06XHT72SF,-18.423220848486924,0.0,12,10.028242277432275,0.6046562560719266
+108,AJ Green's Health,http://www.nfl.com/news/story/0ap3000001037994/article/aj-green-will-miss-multiple-regularseason-games,-18.423220848486924,3.0,13,10.816190882543856,0.65216588341869
+107,AJ Green's Health,https://www.rotoworld.com/football/nfl/player/1622/aj-green,-19.521833137155035,0.0,14,10.816190882543856,0.65216588341869
+118,AJ Green's Health,https://www.reddit.com/r/fantasyfootball/comments/czbbvs/ekeler_and_aj_green_flex_stack/,-19.521833137155035,0.0,15,10.816190882543856,0.65216588341869
+119,AJ Green's Health,https://clutchpoints.com/bengals-news-aj-green-to-give-an-update-on-his-status-next-week/,-19.521833137155035,1.0,16,11.060841424662081,0.6669171705087592

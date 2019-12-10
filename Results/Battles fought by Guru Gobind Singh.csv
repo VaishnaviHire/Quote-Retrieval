@@ -1,19 +1,19 @@
-,Query,URL,score,Ranking,QL_rank,DCG
-230,Battles fought by Guru Gobind Singh,https://abhimanuias.com/state/Searchdetail.aspx?type=BL&id=8368,-16.006413077986153,4.0,0,4.0
-222,Battles fought by Guru Gobind Singh,https://en.wikipedia.org/wiki/Guru_Gobind_Singh,-17.24577706227349,2.0,1,6.0
-231,Battles fought by Guru Gobind Singh,https://www.newworldencyclopedia.org/entry/Guru_Gobind_Singh,-19.19429238650174,2.0,2,7.2618595071429155
-237,Battles fought by Guru Gobind Singh,https://www.sikhdharma.org/sikh-history/ten-sikh-gurus/,-23.1397465046837,0.0,3,7.2618595071429155
-223,Battles fought by Guru Gobind Singh,https://en.wikipedia.org/wiki/Battle_of_Chamkaur_(1704) ,-23.997252804489296,3.0,4,8.553889181363095
-224,Battles fought by Guru Gobind Singh,https://www.quora.com/How-many-wars-did-Guru-Gobind-Singh-fight ,-24.938236148953823,1.0,5,8.940741988597637
-235,Battles fought by Guru Gobind Singh,http://www.indiandefencereview.com/news/the-battle-of-chamkaur-an-epic-that-changed-the-course-of-indian-history/ ,-26.04116809876645,2.0,6,9.65315636281368
-226,Battles fought by Guru Gobind Singh,https://www.indiatoday.in/education-today/gk-current-affairs/story/guru-gobind-singh-304119-2016-01-16 ,-26.30110025826533,1.0,7,9.986489696147014
-239,Battles fought by Guru Gobind Singh,https://www.straight.com/news/1015036/gurpreet-singh-sikhs-must-be-vigilant-about-hindutva-attempts-appropriate-guru-gobind,-26.32076605281827,1.0,8,10.301954572932743
-229,Battles fought by Guru Gobind Singh,https://scroll.in/article/880186/from-guru-hargobind-to-guru-gobind-singh-how-the-sikh-community-militarised-to-take-on-the-mughals ,-27.61551469138928,1.0,9,10.602984568596725
-232,Battles fought by Guru Gobind Singh,https://www.speakingtree.in/allslides/the-battle-of-chamkaur/288984 ,-28.19611719295443,2.0,10,11.1811142212325
-238,Battles fought by Guru Gobind Singh,https://blog.oup.com/2016/01/gurus-warrior-scripture/ ,-29.537675660232928,1.0,11,11.46005716688363
-228,Battles fought by Guru Gobind Singh,https://barficulture.tv/world/39 ,-30.161829969305927,1.0,12,11.73029532131095
-233,Battles fought by Guru Gobind Singh,https://www.learnreligions.com/all-about-guru-gobind-singh-4590153 ,-38.35051909375012,2.0,13,12.255594391385337
-225,Battles fought by Guru Gobind Singh,https://books.google.com/books/about/Battles_of_Guru_Gobind_Singh.html?id=L7PXAAAAMAAJ ,-39.04366627431007,4.0,14,13.2794264906246
-227,Battles fought by Guru Gobind Singh,http://dailysikhupdates.com/4-battles-hindu-kings-allied-mughals-took-guru-gobind-singh-ji-khalsa/ ,-39.04366627431007,2.0,15,13.7794264906246
-234,Battles fought by Guru Gobind Singh,https://www.sikh24.com/2017/08/10/5-battles-in-which-sikhs-were-greatly-outnumbered/#.Xd25sC-ZNZI,-39.04366627431007,2.0,16,14.268727574861051
-236,Battles fought by Guru Gobind Singh,https://www.bbc.co.uk/bitesize/guides/zhhf9j6/revision/5 ,-39.04366627431007,0.0,17,14.268727574861051
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+230,Battles fought by Guru Gobind Singh,https://abhimanuias.com/state/Searchdetail.aspx?type=BL&id=8368,-16.006413077986153,4.0,0,4.0,1.0
+222,Battles fought by Guru Gobind Singh,https://en.wikipedia.org/wiki/Guru_Gobind_Singh,-17.24577706227349,2.0,1,6.0,0.75
+231,Battles fought by Guru Gobind Singh,https://www.newworldencyclopedia.org/entry/Guru_Gobind_Singh,-19.19429238650174,2.0,2,7.2618595071429155,0.734055817400332
+237,Battles fought by Guru Gobind Singh,https://www.sikhdharma.org/sikh-history/ten-sikh-gurus/,-23.1397465046837,0.0,3,7.2618595071429155,0.6666666666666666
+223,Battles fought by Guru Gobind Singh,https://en.wikipedia.org/wiki/Battle_of_Chamkaur_(1704) ,-23.997252804489296,3.0,4,8.553889181363095,0.7277340113049862
+224,Battles fought by Guru Gobind Singh,https://www.quora.com/How-many-wars-did-Guru-Gobind-Singh-fight ,-24.945292234678032,1.0,5,8.940741988597637,0.7136694183059196
+235,Battles fought by Guru Gobind Singh,http://www.indiandefencereview.com/news/the-battle-of-chamkaur-an-epic-that-changed-the-course-of-indian-history/ ,-26.04116809876645,2.0,6,9.65315636281368,0.7290759122668938
+226,Battles fought by Guru Gobind Singh,https://www.indiatoday.in/education-today/gk-current-affairs/story/guru-gobind-singh-304119-2016-01-16 ,-26.30110025826533,1.0,7,9.986489696147014,0.7180945320864922
+239,Battles fought by Guru Gobind Singh,https://www.straight.com/news/1015036/gurpreet-singh-sikhs-must-be-vigilant-about-hindutva-attempts-appropriate-guru-gobind,-26.32076605281827,1.0,8,10.301954572932743,0.7086294291843259
+229,Battles fought by Guru Gobind Singh,https://scroll.in/article/880186/from-guru-hargobind-to-guru-gobind-singh-how-the-sikh-community-militarised-to-take-on-the-mughals ,-27.3278326189375,1.0,9,10.602984568596725,0.700332988881399
+232,Battles fought by Guru Gobind Singh,https://www.speakingtree.in/allslides/the-battle-of-chamkaur/288984 ,-28.19611719295443,2.0,10,11.1811142212325,0.7246824877528971
+238,Battles fought by Guru Gobind Singh,https://blog.oup.com/2016/01/gurus-warrior-scripture/ ,-29.537675660232928,1.0,11,11.46005716688363,0.7295716039335454
+228,Battles fought by Guru Gobind Singh,https://barficulture.tv/world/39 ,-30.161829969305927,1.0,12,11.73029532131095,0.7341453501687241
+233,Battles fought by Guru Gobind Singh,https://www.learnreligions.com/all-about-guru-gobind-singh-4590153 ,-38.35051909375012,2.0,13,12.255594391385337,0.7546169921886023
+225,Battles fought by Guru Gobind Singh,https://books.google.com/books/about/Battles_of_Guru_Gobind_Singh.html?id=L7PXAAAAMAAJ ,-39.04366627431007,4.0,14,13.2794264906246,0.8049711954939325
+227,Battles fought by Guru Gobind Singh,http://dailysikhupdates.com/4-battles-hindu-kings-allied-mughals-took-guru-gobind-singh-ji-khalsa/ ,-39.04366627431007,2.0,15,13.7794264906246,0.8228108840278382
+234,Battles fought by Guru Gobind Singh,https://www.sikh24.com/2017/08/10/5-battles-in-which-sikhs-were-greatly-outnumbered/#.Xd25sC-ZNZI,-39.04366627431007,2.0,16,14.268727574861051,0.8520285193155115
+236,Battles fought by Guru Gobind Singh,https://www.bbc.co.uk/bitesize/guides/zhhf9j6/revision/5 ,-39.04366627431007,0.0,17,14.268727574861051,0.8520285193155115

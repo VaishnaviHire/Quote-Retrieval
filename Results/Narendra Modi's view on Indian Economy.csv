@@ -1,19 +1,19 @@
-,Query,URL,score,Ranking,QL_rank,DCG
-257,Narendra Modi's view on Indian Economy,https://www.dw.com/en/how-has-indias-economy-fared-under-pm-narendra-modi/a-48251747,-27.773985032361058,4.0,0,4.0
-254,Narendra Modi's view on Indian Economy,https://www.indiatoday.in/news-analysis/story/narendra-modi-government-nirmala-sitharaman-must-acknowledge-economic-slowdown-1594747-2019-09-03,-28.08489155784421,4.0,1,8.0
-246,Narendra Modi's view on Indian Economy,https://www.business-standard.com/article/economy-policy/economy-is-down-to-do-list-is-long-can-modi-shed-hindutva-and-deliver-119103000129_1.html,-28.11859147629005,3.0,2,9.892789260714373
-243,Narendra Modi's view on Indian Economy,https://m.economictimes.com/news/economy/finance/a-45-billion-bet-on-narendra-modis-india-is-rapidly-unwinding/articleshow/71160327.cms,-30.543822721228945,3.0,3,11.392789260714373
-244,Narendra Modi's view on Indian Economy,https://foreignpolicy.com/2019/09/21/everyone-thinks-the-economy-is-issue-no-1-for-indias-modi-its-not/ ,-30.74961663420804,3.0,4,12.684818934934553
-249,Narendra Modi's view on Indian Economy,https://asia.nikkei.com/Opinion/Indian-economy-will-struggle-through-Narendra-Modi-s-second-term,-31.165132078169705,3.0,5,13.845377356638178
-253,Narendra Modi's view on Indian Economy,https://economictimes.indiatimes.com/news/economy/policy/view-modi-gets-real-on-the-economy/articleshow/70852724.cms,-32.16843418703349,4.0,6,15.270206105070267
-255,Narendra Modi's view on Indian Economy,https://www.business-standard.com/article/economy-policy/economy-is-down-to-do-list-is-long-can-modi-shed-hindutva-and-deliver-119103000129_1.html ,-32.26147421830328,2.0,7,15.936872771736933
-251,Narendra Modi's view on Indian Economy,https://www.washingtonpost.com/opinions/2019/10/25/why-modi-wont-be-able-ignore-indias-economic-slowdown-long/,-32.53340793378692,2.0,8,16.56780252530839
-245,Narendra Modi's view on Indian Economy,https://qz.com/india/1716106/in-us-narendra-modi-may-have-overstated-indian-economic-climate/ ,-32.64673661909392,4.0,9,17.771922507964316
-247,Narendra Modi's view on Indian Economy,https://carnegieendowment.org/2019/11/04/strange-triumph-of-narendra-modi-can-india-s-prime-minister-succeed-even-as-economy-plummets-pub-80259,-32.8210900062387,1.0,10,18.060987334282203
-248,Narendra Modi's view on Indian Economy,https://www.washingtonpost.com/opinions/2019/11/13/narendra-modi-is-indias-trump/,-33.33988379965387,0.0,11,18.060987334282203
-241,Narendra Modi's view on Indian Economy,https://www.ft.com/content/798795ce-f4f6-11e9-b018-3ef8794b17c6,-33.514237186798645,0.0,12,18.060987334282203
-240,Narendra Modi's view on Indian Economy,https://www.economist.com/leaders/2019/10/24/narendra-modi-is-damaging-indias-economy-as-well-as-its-democracy ,-33.56302735096808,4.0,13,19.111585474430978
-242,Narendra Modi's view on Indian Economy,https://www.foreignaffairs.com/articles/india/2019-11-04/strange-triumph-narendra-modi ,-34.25617453152802,1.0,14,19.367543499240792
-256,Narendra Modi's view on Indian Economy,https://www.cnbc.com/2019/11/08/billionaire-investor-ray-dalio-says-hes-impressed-by-indian-pm-modi.html ,-37.94505398564196,2.0,15,19.867543499240792
-250,Narendra Modi's view on Indian Economy,https://www.livemint.com/news/india/pm-narendra-modi-brings-india-s-economy-into-focus-amid-privatisation-push-11574329596101.html ,-39.04366627431007,4.0,16,20.846145667713696
-252,Narendra Modi's view on Indian Economy,https://economictimes.indiatimes.com/news/economy/finance/a-45-billion-bet-on-narendra-modis-india-is-rapidly-unwinding/articleshow/71160327.cms ,-39.04366627431007,3.0,17,21.56558306741809
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+257,Narendra Modi's view on Indian Economy,https://www.dw.com/en/how-has-indias-economy-fared-under-pm-narendra-modi/a-48251747,-27.615873951317695,4.0,0,4.0,1.0
+246,Narendra Modi's view on Indian Economy,https://www.business-standard.com/article/economy-policy/economy-is-down-to-do-list-is-long-can-modi-shed-hindutva-and-deliver-119103000129_1.html,-28.11859147629005,3.0,1,7.0,0.875
+254,Narendra Modi's view on Indian Economy,https://www.indiatoday.in/news-analysis/story/narendra-modi-government-nirmala-sitharaman-must-acknowledge-economic-slowdown-1594747-2019-09-03,-28.14204997168416,4.0,2,9.523719014285831,0.9049765583210164
+244,Narendra Modi's view on Indian Economy,https://foreignpolicy.com/2019/09/21/everyone-thinks-the-economy-is-issue-no-1-for-indias-modi-its-not/ ,-30.854977149865864,3.0,3,11.023719014285831,0.8802272712850754
+243,Narendra Modi's view on Indian Economy,https://m.economictimes.com/news/economy/finance/a-45-billion-bet-on-narendra-modis-india-is-rapidly-unwinding/articleshow/71160327.cms,-30.875179857183387,3.0,4,12.31574868850601,0.864479929199295
+249,Narendra Modi's view on Indian Economy,https://asia.nikkei.com/Opinion/Indian-economy-will-struggle-through-Narendra-Modi-s-second-term,-31.165132078169705,3.0,5,13.476307110209635,0.8532636849254204
+253,Narendra Modi's view on Indian Economy,https://economictimes.indiatimes.com/news/economy/policy/view-modi-gets-real-on-the-economy/articleshow/70852724.cms,-32.16843418703349,4.0,6,14.901135858641725,0.8836870535769605
+251,Narendra Modi's view on Indian Economy,https://www.washingtonpost.com/opinions/2019/10/25/why-modi-wont-be-able-ignore-indias-economic-slowdown-long/,-32.53340793378692,2.0,7,15.567802525308391,0.8715375282169745
+245,Narendra Modi's view on Indian Economy,https://qz.com/india/1716106/in-us-narendra-modi-may-have-overstated-indian-economic-climate/ ,-32.64673661909392,4.0,8,16.829662032451306,0.8947734521734506
+247,Narendra Modi's view on Indian Economy,https://carnegieendowment.org/2019/11/04/strange-triumph-of-narendra-modi-can-india-s-prime-minister-succeed-even-as-economy-plummets-pub-80259,-32.8210900062387,1.0,9,17.130692028115288,0.8690514338764725
+255,Narendra Modi's view on Indian Economy,https://www.business-standard.com/article/economy-policy/economy-is-down-to-do-list-is-long-can-modi-shed-hindutva-and-deliver-119103000129_1.html ,-33.03977920720353,2.0,10,17.708821680751065,0.8605230416696877
+241,Narendra Modi's view on Indian Economy,https://www.ft.com/content/798795ce-f4f6-11e9-b018-3ef8794b17c6,-33.226555114346866,0.0,11,17.708821680751065,0.8378105876248215
+248,Narendra Modi's view on Indian Economy,https://www.washingtonpost.com/opinions/2019/11/13/narendra-modi-is-indias-trump/,-33.33988379965387,0.0,12,17.708821680751065,0.8169217956587125
+240,Narendra Modi's view on Indian Economy,https://www.economist.com/leaders/2019/10/24/narendra-modi-is-damaging-indias-economy-as-well-as-its-democracy ,-33.56302735096808,4.0,13,18.75941982089984,0.8449124060887593
+242,Narendra Modi's view on Indian Economy,https://www.foreignaffairs.com/articles/india/2019-11-04/strange-triumph-narendra-modi ,-34.25617453152802,1.0,14,19.015377845709654,0.8466799088593139
+256,Narendra Modi's view on Indian Economy,https://www.cnbc.com/2019/11/08/billionaire-investor-ray-dalio-says-hes-impressed-by-indian-pm-modi.html ,-37.94505398564196,2.0,15,19.515377845709654,0.8593767742159436
+250,Narendra Modi's view on Indian Economy,https://www.livemint.com/news/india/pm-narendra-modi-brings-india-s-economy-into-focus-amid-privatisation-push-11574329596101.html ,-39.04366627431007,4.0,16,20.493980014182558,0.9024703787278264
+252,Narendra Modi's view on Indian Economy,https://economictimes.indiatimes.com/news/economy/finance/a-45-billion-bet-on-narendra-modis-india-is-rapidly-unwinding/articleshow/71160327.cms ,-39.04366627431007,3.0,17,21.21341741388695,0.9341514354153447

@@ -1,21 +1,21 @@
-,Query,URL,score,Ranking,QL_rank,DCG
-197,Leonardo da Vinci Quotes,http://www.art-quotes.com/auth_search.php?authid=243#.Xd2zvy-ZNZI,-7.906873877963509,3.0,0,3.0
-198,Leonardo da Vinci Quotes,http://www.wiseoldsayings.com/authors/leonardo-da-vinci-quotes/,-10.691604394297155,4.0,1,7.0
-184,Leonardo da Vinci Quotes,https://en.wikipedia.org/wiki/Leonardo_da_Vinci,-10.757436176875768,4.0,2,9.523719014285831
-192,Leonardo da Vinci Quotes,https://everydaypower.com/leonardo-di-vinci-quotes/,-11.033945794901042,3.0,3,11.023719014285831
-189,Leonardo da Vinci Quotes,https://wealthygorilla.com/48-leonardo-da-vinci-quotes/ ,-11.315274772078945,4.0,4,12.746425246579403
-194,Leonardo da Vinci Quotes,https://wealthygorilla.com/48-leonardo-da-vinci-quotes/,-11.315274772078945,4.0,5,14.293836475517569
-188,Leonardo da Vinci Quotes,https://en.wikiquote.org/wiki/Leonardo_da_Vinci,-12.799508721466118,1.0,6,14.650043662625592
-199,Leonardo da Vinci Quotes,https://www.azquotes.com/author/15101-Leonardo_da_Vinci,-13.783432949417513,3.0,7,15.650043662625592
-186,Leonardo da Vinci Quotes,https://www.awakenthegreatnesswithin.com/35-inspirational-leonardo-da-vinci-quotes/,-14.397229703397683,3.0,8,16.59643829298278
-196,Leonardo da Vinci Quotes,https://www.thoughtco.com/leonardo-da-vinci-quotes-1991581,-15.154844379845695,3.0,9,17.499528279974722
-181,Leonardo da Vinci Quotes,https://www.brainyquote.com/authors/leonardo-da-vinci-quotes,-17.359368259663523,4.0,10,18.655787585246273
-193,Leonardo da Vinci Quotes,https://www.geckoandfly.com/25572/leonardo-da-vinci-quotes/,-18.34019751267525,4.0,11,19.77155936785079
-195,Leonardo da Vinci Quotes,https://drawpaintacademy.com/leonardo-da-vinci-quotes/,-19.814502751117857,2.0,12,20.31203567670543
-183,Leonardo da Vinci Quotes,https://www.goodreads.com/author/quotes/13560.Leonardo_da_Vinci ,-19.85532474563811,4.0,13,21.362633816854206
-200,Leonardo da Vinci Quotes,http://www.leonardo-da-vinci.net/quotes/,-20.102184823569637,1.0,14,21.61859184166402
-187,Leonardo da Vinci Quotes,https://quotes.thefamouspeople.com/leonardo-da-vinci-2134.php ,-23.726525756546,3.0,15,22.36859184166402
-182,Leonardo da Vinci Quotes,https://www.brainyquote.com/lists/authors/top-10-leonardo-da-vinci-quotes ,-26.029110849540047,4.0,16,23.347194010136924
-190,Leonardo da Vinci Quotes,http://www.notable-quotes.com/v/vinci_leonardo_da.html ,-26.029110849540047,3.0,17,24.066631409841317
-185,Leonardo da Vinci Quotes,https://www.leonardodavinci.net/quotes.jsp ,-26.029110849540047,4.0,18,25.00826706330787
-191,Leonardo da Vinci Quotes,https://www.goalcast.com/2018/04/03/leonardo-da-vinci-quotes/,-26.029110849540047,4.0,19,25.933779915946907
+,Query,URL,score,Ranking,QL_rank,DCG,NDCG
+197,Leonardo da Vinci Quotes,http://www.art-quotes.com/auth_search.php?authid=243#.Xd2zvy-ZNZI,-7.906873877963509,3.0,0,3.0,0.75
+198,Leonardo da Vinci Quotes,http://www.wiseoldsayings.com/authors/leonardo-da-vinci-quotes/,-10.681752097854142,4.0,1,7.0,0.875
+184,Leonardo da Vinci Quotes,https://en.wikipedia.org/wiki/Leonardo_da_Vinci,-10.757436176875768,4.0,2,9.523719014285831,0.9049765583210164
+192,Leonardo da Vinci Quotes,https://everydaypower.com/leonardo-di-vinci-quotes/,-11.033945794901042,3.0,3,11.023719014285831,0.8802272712850754
+189,Leonardo da Vinci Quotes,https://wealthygorilla.com/48-leonardo-da-vinci-quotes/ ,-11.315274772078945,4.0,4,12.746425246579403,0.8947104291751958
+194,Leonardo da Vinci Quotes,https://wealthygorilla.com/48-leonardo-da-vinci-quotes/,-11.315274772078945,4.0,5,14.293836475517569,0.9050262422100426
+188,Leonardo da Vinci Quotes,https://en.wikiquote.org/wiki/Leonardo_da_Vinci,-12.799508721466118,1.0,6,14.650043662625592,0.8508234216812963
+199,Leonardo da Vinci Quotes,https://www.azquotes.com/author/15101-Leonardo_da_Vinci,-13.783432949417513,3.0,7,15.650043662625592,0.843577235859682
+186,Leonardo da Vinci Quotes,https://www.awakenthegreatnesswithin.com/35-inspirational-leonardo-da-vinci-quotes/,-14.633618481461912,3.0,8,16.59643829298278,0.8376177036808531
+196,Leonardo da Vinci Quotes,https://www.thoughtco.com/leonardo-da-vinci-quotes-1991581,-15.154844379845695,3.0,9,17.499528279974722,0.8325980853521914
+181,Leonardo da Vinci Quotes,https://www.brainyquote.com/authors/leonardo-da-vinci-quotes,-17.359368259663523,4.0,10,18.655787585246273,0.8524395941157232
+193,Leonardo da Vinci Quotes,https://www.geckoandfly.com/25572/leonardo-da-vinci-quotes/,-18.34019751267525,4.0,11,19.77155936785079,0.8701504349020959
+183,Leonardo da Vinci Quotes,https://www.goodreads.com/author/quotes/13560.Leonardo_da_Vinci ,-19.22671608621574,4.0,12,20.85251198556007,0.8861073298765324
+195,Leonardo da Vinci Quotes,https://drawpaintacademy.com/leonardo-da-vinci-quotes/,-19.814502751117857,2.0,13,21.377811055634456,0.8789978216240415
+200,Leonardo da Vinci Quotes,http://www.leonardo-da-vinci.net/quotes/,-20.102184823569637,1.0,14,21.63376908044427,0.8622969040397755
+187,Leonardo da Vinci Quotes,https://quotes.thefamouspeople.com/leonardo-da-vinci-2134.php ,-23.726525756546,3.0,15,22.38376908044427,0.8662939304949265
+182,Leonardo da Vinci Quotes,https://www.brainyquote.com/lists/authors/top-10-leonardo-da-vinci-quotes ,-26.029110849540047,4.0,16,23.362371248917174,0.8791939006362277
+190,Leonardo da Vinci Quotes,http://www.notable-quotes.com/v/vinci_leonardo_da.html ,-26.029110849540047,3.0,17,24.081808648621568,0.890200584704337
+185,Leonardo da Vinci Quotes,https://www.leonardodavinci.net/quotes.jsp ,-26.029110849540047,4.0,18,25.02344430208812,0.9170287608963293
+191,Leonardo da Vinci Quotes,https://www.goalcast.com/2018/04/03/leonardo-da-vinci-quotes/,-26.029110849540047,4.0,19,25.948957154727157,0.94295030280793
