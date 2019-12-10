@@ -1,0 +1,30 @@
+﻿Query ID,Query ,Description
+1,Abraham Lincoln Gettysburg,Relevant documents must include direct quotes by Abraham Lincoln from his Gettysburg Address. The relevance of these documents will be judged on how much of the speech they contain and how accessible those quotes are in the document. 
+2,Mohammad Ali,Looking for all of Ali's quotes weather it be him talking trash or him talking about fights and such. Was not looking for information about him or quotes other people said about him
+3,Mohammad Ali Sting like a bee,Looking for the iconic quotes Ali use to say in his fights/ jfged wetaher quotes abouthim when he was boxing appeared
+4,Gladiator Russell Crowe Quotes,Evaluated the results of the querry by looking for result  that contained quotes by russell crowes character in the movie the gladiator. 
+5,Celtics 11/20/2019,"Evaluated this querry by wuotes from player, media and coachs about the Celtics Clippers game that took place on that date. The quotes must be relevant to the game itself and must have been daid by relevant parties"
+6,Gandhi's views on truth,This query was evaluated on the retrival of direct quotes from Gandhi about his views on truth and the test that he wrote about it. Documents that were returned with other people reviews on Gandhis claims scored less then those that just had Gandhis quotes. 
+7,AJ Green's Health,"Evaluated the results by quotes from media, NFL staff or NFL players about the health of AJ Green. More recent quotes recived a higher score then quotes that occurred years ago and were about past injuries. "
+8,President Obama Inauguration,This query was evaluated on weather or not President Obamas 1st or 2nd inauguration speech was quoted directly in the document. 
+9,Bill Simmons Roger Goodell,The evaluation of this query was if there were direct quotes by Ben Simmons on his views of Redger Goodell. 
+10,JFK space race,This query was ment to retive documents that had quotes from JFK about the unitted states space race with USSR. One main quote that this query was looking to retrive was that of JFKs speech to Rice College. 
+11,quotes by Elon Musk,
+12,elon musk news,
+13,elon musk latest,
+14,elon musk twitter,
+15,"quotes and opinions of elon musk, as attributed to them in news articles, social media, books, etc.",
+16,elon musk on clean energy,
+17,elon musk on self driving cars,
+18,elon musk interview with nyt,
+19,Elon musk speech,
+20,Leonardo da Vinci Quotes,"The retrieved documents should have Leonardo da Vinci Quotes. The relevant documents will have any quotes by Leonardo da Vinci. The other less relevant documents might include any opinions, sayings and history about Leonardo da Vinci."
+21,Facts about Sushruta,"The retrieved documents should have facts related to life and work of Sushruta. The relevant documents will have any facts related to Sushruta. The other less relevant documents might include any opinions, sayings and history about Sushruta."
+22,Battles fought by Guru Gobind Singh,"The retrieved documents should consist of all the Battles fought by Guru Gobind Singh in his entire life span. The relevant documents will have any battles mentally and physically fought by Guru Gobind Singh in his life. The other less relevant documents might include any opinions, sayings, life and history about by Guru Gobind Singh."
+23,Narendra Modi's view on Indian Economy,"The retrieved documents should consist of Narendra Modi's view on Indian Economy in recent times. The relevant documents can be recent interview transcripts, talks or speeches by him on Indian economy. The other less relevant documents might be include any opinions, conversations from past."
+24,World Media views on Imran Khan,"The retrieved documents should consist of World Media views on Imran Khan in recent times. The relevant documents can be recent interview transcripts, talks or speeches on him. The other less relevant documents might be include any opinions, conversations from past."
+25,Sundar pichai's views on H-1B visa policy by the Trump Government,"The retrieved documents should consist of Sundar pichai's views on H-1B visa policy by the Trump Government in recent times. The relevant documents can be recent interview transcripts, discussion, talks or speeches of Sundar pichai's views on H-1B visa policy by the Trump Government. The other less relevant documents might be include any opinions, conversations from past."
+26,Warren Buffet views and media interactions in regard to start-ups,"The retrieved documents should consist of Warren Buffet views and media interactions in regard to start-ups in recent times. The relevant documents can be recent interview transcripts, discussion, talks or speeches of Warren Buffet views and media interactions in regard to start-ups. The other less relevant documents might include any opinions, conversations from past."
+27,Jeff Bezos portrayed by top business magazines like Forbes,"The retrieved documents should consist what top business magazines has to say about Jeff Bezos. The relevant documents can be recent publications transcripts, interviews on him by top business magazines. The other less relevant documents might be include any opinions, conversations, life, etc. from past."
+28,Kim Jong-un relationship with China,"The retrieved documents should consist of news about Kim Jong-un relationship with China during recent times. The relevant documents can be recent interview, update, transcripts, discussion, talks or speeches regarding any events that tells us the Kim Jong-un relationship with China."
+29,Jack Ma's  and Elon Musk's views on AI,"The retrieved documents should consist of documents of Jack Ma's and Elon Musk's views on AI. The relevant documents can be recent interview, news, update, transcripts, discussion, talks or speeches of Jack Ma's and Elon Musk's views on AI."
